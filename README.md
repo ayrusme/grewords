@@ -1,6 +1,6 @@
 # GRE Word Lists
 
-This project intends to help anyone preparing for GRE by displaying one word at a time 🔠
+This project intends to help anyone learn new words by displaying one word at a time 🔠
 
 ## Installation 👾
 
@@ -33,6 +33,14 @@ python3 words.py
 ```
 
 The program will wait for some input and proceed to the next word
+
+## Installation
+
+```python
+python3 setup.py install
+```
+
+If this command is not able to create the required directories, sudo it.
 
 ## Contributions
 
